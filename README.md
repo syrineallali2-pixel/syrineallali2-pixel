@@ -66,7 +66,7 @@ I like experimenting, understanding why things work, and occasionally making the
   <a href="https://github.com/syrineallali2-pixel">
     <img src="https://img.shields.io/badge/GitHub-5524E1?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/allali-syrine">
+  <a href="https://www.linkedin.com/in/allali-syrine-02311a369/">
     <img src="https://img.shields.io/badge/LinkedIn-985AEA?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
